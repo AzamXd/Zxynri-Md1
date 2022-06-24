@@ -450,6 +450,103 @@
         },
         "version": "v1"
       }
+    },
+    "senderKeys": {
+      "120363024920013325@g.us::6287816590416::0": [
+        {
+          "senderKeyId": 1508489128,
+          "senderChainKey": {
+            "iteration": 1,
+            "seed": "uGGgRQCMX/U1ETkqgR9HTkG6Qm5UjQYYonW9qAis19k="
+          },
+          "senderSigningKey": {
+            "public": "BRMm4zGHijsx2BypLMGxpCs9yzxQPfWP++9sEe+A7/pU"
+          }
+        }
+      ]
+    },
+    "appStateSyncKeys": {
+      "AAAAAAqL": {
+        "keyData": "Vou4BNwU1G6iXSdq+I7bspzTxWukA9YHm5dhVLOD48M=",
+        "fingerprint": {
+          "rawId": 2073222570,
+          "currentIndex": 1,
+          "deviceIndexes": [
+            0,
+            1
+          ]
+        },
+        "timestamp": "1656035127703"
+      },
+      "AAAAAAqJ": {
+        "keyData": "wrHW/m9qVd7OsxojvXkqX75H+YExl3yIxuM9bzBO/w4=",
+        "fingerprint": {
+          "rawId": 2073222569,
+          "currentIndex": 1,
+          "deviceIndexes": [
+            0,
+            1
+          ]
+        },
+        "timestamp": "1656034753189"
+      },
+      "AAAAAAqK": {
+        "keyData": "FUmZa/v82la1KjKzS6NH/vtb4QWX1+9y6GUp2IyLrnE=",
+        "fingerprint": {
+          "rawId": 2073222569,
+          "currentIndex": 1,
+          "deviceIndexes": [
+            0
+          ]
+        },
+        "timestamp": "1656034766339"
+      },
+      "AAAAAAqH": {
+        "keyData": "RZ0K44lAHdZmqThLH3/7IKY04pfNuCiZqiIW+TcaYaQ=",
+        "fingerprint": {
+          "rawId": 2073222568,
+          "currentIndex": 1,
+          "deviceIndexes": [
+            0,
+            1
+          ]
+        },
+        "timestamp": "0"
+      },
+      "AAAAAAqI": {
+        "keyData": "BfQYknfkdRZNcpkor/OA9aJRLChZ0DltEwaoB5h/jsY=",
+        "fingerprint": {
+          "rawId": 2073222568,
+          "currentIndex": 1,
+          "deviceIndexes": [
+            0
+          ]
+        },
+        "timestamp": "1655996835637"
+      },
+      "AAAAAAqF": {
+        "keyData": "/YirGwtMjkMuB7i6mP5baR5s58C1+lKD67HLFgMUHs4=",
+        "fingerprint": {
+          "rawId": 2073222566,
+          "currentIndex": 1,
+          "deviceIndexes": [
+            0,
+            1
+          ]
+        },
+        "timestamp": "0"
+      },
+      "AAAAAAqG": {
+        "keyData": "VRF7XBhG796SxkHsiUAnZuBSq4A/LXhHqdP6wGsOMPA=",
+        "fingerprint": {
+          "rawId": 2073222566,
+          "currentIndex": 1,
+          "deviceIndexes": [
+            0
+          ]
+        },
+        "timestamp": "1655977919882"
+      }
     }
   }
 }
